@@ -1,0 +1,1162 @@
+{
+2811 "0.87 0.94 1"
+2812 "0.56"
+2813 "0.5 0.5 .62 1"
+1987 ".116"
+1668 "worldspawn"
+1991 "18 111 0"
+1990 "0.88 0.93 1"
+1989 "0.74"
+1669 "103 -1611 461"
+}
+{
+1673 "speakers"
+1774 "speaker_truck"
+1677 "0 339.7 0"
+1669 "-251.5 -1093.8 242.5"
+1668 "script_origin"
+}
+{
+1677 "0 212 0"
+1669 "398.2 455.8 292"
+1673 "speakers"
+1668 "script_origin"
+}
+{
+1677 "0 330 0"
+1669 "-268.5 -151.8 402.5"
+1673 "speakers"
+1668 "script_origin"
+}
+{
+1677 "0 217 0"
+1669 "248 -507.7 322.5"
+1673 "speakers"
+1668 "script_origin"
+}
+{
+1677 "0 184.7 0"
+1669 "-708.5 -710.2 322.5"
+1673 "speakers"
+1668 "script_origin"
+}
+{
+1677 "0 138.2 0"
+1669 "-714 -493.2 308"
+1673 "speakers"
+1668 "script_origin"
+}
+{
+1677 "0 88.3 0"
+1669 "-688 318.8 115.5"
+1673 "speakers"
+1668 "script_origin"
+}
+{
+1677 "0 39.7 0"
+1669 "-379.5 -773.8 322.5"
+1673 "speakers"
+1668 "script_origin"
+}
+{
+1669 "1356 -1992 8"
+1673 "minimap_corner"
+1668 "script_origin"
+}
+{
+1669 "-1476 840 8"
+1673 "minimap_corner"
+1668 "script_origin"
+}
+{
+2814 "884.266 -668.636 298.184"
+1774 "v1_only"
+1677 "0 5.10003 0"
+1669 "885 -668.5 287.8"
+1670 "weapon_jammer"
+1668 "script_model"
+}
+{
+2814 "886.366 -641.412 286.678"
+1774 "v1_only"
+1677 "272.002 102.146 -87.1472"
+1669 "888.7 -650 286.9"
+1670 "weapon_blk_strap"
+1668 "script_model"
+}
+{
+2815 "1f1c160000"
+2814 "879.995 -653.001 270.982"
+1774 "v1_only"
+1677 "0 269.4 0"
+1669 "880 -653 256"
+1670 "weaponscase"
+1668 "script_model"
+}
+{
+2814 "875.751 -644.795 286.678"
+1774 "v1_only"
+1677 "272.002 82.846 -87.1472"
+1669 "875.1 -653.6 286.9"
+1670 "weapon_blk_strap"
+1668 "script_model"
+}
+{
+1774 "v1_only"
+1668 "script_brushmodel"
+1669 "880 -652 271"
+1670 "*187"
+}
+{
+2815 "8080540000"
+2814 "503 -380.5 240"
+1669 "502 -408.5 192"
+1677 "0 0 0"
+1670 "breach_door_metal_right"
+1668 "script_model"
+}
+{
+2815 "2e32356501"
+2814 "-177.016 -1773.54 76.1268"
+2369 "vehicle_jeep"
+1673 "destructible_vehicle"
+1669 "-180.6 -1772.1 40.7"
+1670 "vehicle_jeep_destructible"
+1668 "script_model"
+2817 "destructible_jeep"
+2816 "vehicle_car_exp"
+1677 "348.37 59.394 3"
+}
+{
+2815 "393a3a9a01"
+2814 "84.5331 -1525.51 99.6413"
+2369 "vehicle_jeep"
+1673 "destructible_vehicle"
+1669 "78.6973 -1529.29 60"
+1670 "vehicle_jeep_destructible"
+1668 "script_model"
+2817 "destructible_jeep"
+2816 "vehicle_car_exp"
+1677 "0 44.57 0"
+}
+{
+2815 "2f3336e701"
+2814 "-373.366 -777.348 325.804"
+1673 "speakers"
+1669 "-380.2 -778.8 327.5"
+1677 "40 7.99998 0"
+1670 "com_public_speaker_01"
+1668 "script_model"
+}
+{
+2814 "-710.58 -699.72 325.804"
+1673 "speakers"
+1669 "-703.5 -706 327.5"
+1677 "40 143 -9.22272e-006"
+1670 "com_public_speaker_01"
+1668 "script_model"
+}
+{
+2814 "-707.433 -716.953 328.27"
+1673 "speakers"
+1669 "-701.5 -714 327.5"
+1677 "12 195 2.92715e-006"
+1670 "com_public_speaker_01"
+1668 "script_model"
+}
+{
+2814 "-381.97 -768.298 328.27"
+1673 "speakers"
+1669 "-387.3 -774.5 327.5"
+1677 "12 60 0"
+1670 "com_public_speaker_01"
+1668 "script_model"
+}
+{
+2815 "292c2f0001"
+2814 "241.366 -503.652 325.804"
+1673 "speakers"
+1669 "248.2 -502.2 327.5"
+1677 "40 188 8.69527e-006"
+1670 "com_public_speaker_01"
+1668 "script_model"
+}
+{
+2814 "249.97 -512.702 328.27"
+1673 "speakers"
+1669 "255.3 -506.5 327.5"
+1677 "12 240 0"
+1670 "com_public_speaker_01"
+1668 "script_model"
+}
+{
+1987 "so_deltacamp_construction so_deltacamp_ext"
+1672 "pf93_auto1"
+1668 "trigger_multiple_ambient"
+1669 "-328 384 48"
+1670 "?25"
+}
+{
+1987 "so_deltacamp_construction so_deltacamp_ext"
+1672 "pf93_auto2"
+1668 "trigger_multiple_ambient"
+1669 "-284 575 48"
+1670 "?26"
+}
+{
+1669 "-368 384 48"
+1673 "pf93_auto1"
+1668 "script_struct"
+}
+{
+1669 "-320 592 48"
+1673 "pf93_auto2"
+1668 "script_struct"
+}
+{
+1987 "so_deltacamp_construction so_deltacamp_ext"
+1672 "pf93_auto3"
+1668 "trigger_multiple_ambient"
+1669 "-344 224 48"
+1670 "?27"
+}
+{
+1669 "-384 224 48"
+1673 "pf93_auto3"
+1668 "script_struct"
+}
+{
+1672 "pf93_auto4"
+1987 "so_deltacamp_ext so_deltacamp_construction"
+1668 "trigger_multiple_ambient"
+1669 "-832 -464 248"
+1670 "?28"
+}
+{
+1669 "-832 -496 248"
+1673 "pf93_auto4"
+1668 "script_struct"
+}
+{
+1672 "pf93_auto5"
+1987 "so_deltacamp_bunker so_deltacamp_ext"
+1668 "trigger_multiple_ambient"
+1669 "536 -640 304"
+1670 "?29"
+}
+{
+1669 "592 -640 304"
+1673 "pf93_auto5"
+1668 "script_struct"
+}
+{
+1672 "pf93_auto6"
+1987 "so_deltacamp_ext so_deltacamp_bunker"
+1668 "trigger_multiple_ambient"
+1669 "720 -856 304"
+1670 "?30"
+}
+{
+1669 "720 -896 304"
+1673 "pf93_auto6"
+1668 "script_struct"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 -40 0"
+1669 "-293 -1285 80"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 264 0"
+1669 "-278 -1262 88"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 -11 0"
+1669 "-455 -1377 111"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 25 0"
+1669 "-491 -1526 132"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 101 0"
+1669 "-8 -1630 81"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 88 0"
+1669 "-110 -1668 79"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 62 0"
+1669 "-205 -1637 85"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 62 0"
+1669 "222 -1571 100"
+}
+{
+1668 "mp_tdm_spawn_allies_start"
+1677 "0 62 0"
+1669 "113 -1598 83"
+}
+{//allies
+1668 "mp_tdm_spawn"
+1677 "0 264 0"
+1669 "-278 -1262 88"
+}
+{//allies
+1668 "mp_tdm_spawn"
+1677 "0 -11 0"
+1669 "-455 -1377 111"
+}
+{//allies
+1668 "mp_tdm_spawn"
+1677 "0 25 0"
+1669 "-491 -1526 132"
+}
+{//allies
+1668 "mp_tdm_spawn"
+1677 "0 101 0"
+1669 "-8 -1630 81"
+}
+{//allies
+1668 "mp_tdm_spawn"
+1677 "0 88 0"
+1669 "-110 -1668 79"
+}
+{//allies
+1668 "mp_tdm_spawn"
+1677 "0 62 0"
+1669 "-205 -1637 85"
+}
+{//allies
+1668 "mp_tdm_spawn"
+1677 "0 62 0"
+1669 "253 -1574 105"
+}
+{//allies
+1668 "mp_tdm_spawn"
+1677 "0 30 0"
+1669 "113 -1598 83"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 -73 0"
+1669 "-241 504 16"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 -128 0"
+1669 "-166 612 19"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 -102 0"
+1669 "0 590 16"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 -26 0"
+1669 "64 214 31"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 60 0"
+1669 "-48 228 16"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 117 0"
+1669 "-147 238 16"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 62 0"
+1669 "-288 209 16"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 -135 0"
+1669 "320 484 16"
+}
+{
+1668 "mp_tdm_spawn_axis_start"
+1677 "0 5 0"
+1669 "-115 394 16"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 -73 0"
+1669 "-241 504 16"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 196 0"
+1669 "-166 612 19"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 -102 0"
+1669 "0 590 16"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 -26 0"
+1669 "64 214 31"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 60 0"
+1669 "-48 228 16"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 117 0"
+1669 "-147 238 16"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 62 0"
+1669 "-288 209 16"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 -135 0"
+1669 "320 484 16"
+}
+{//axis
+1668 "mp_tdm_spawn"
+1677 "0 5 0"
+1669 "-115 394 16"
+}
+{//neutral
+1668 "mp_tdm_spawn"
+1677 "0 0 0"
+1669 "576 -936 264"
+}
+{//neutral
+1668 "mp_tdm_spawn"
+1677 "0 -65 0"
+1669 "545 -473 268"
+}
+{//neutral
+1668 "mp_tdm_spawn"
+1677 "0 -125 0"
+1669 "-674.6 -573.5 204"
+}
+{//neutral
+1668 "mp_tdm_spawn"
+1677 "0 -97 0"
+1669 "-759.6 153 204"
+}
+{//neutral
+1668 "mp_tdm_spawn"
+1677 "0 -40 0"
+1669 "-786.5 533 16"
+}
+{//neutral
+1668 "mp_tdm_spawn"
+1677 "0 -40 0"
+1669 "520.8 -1351.8 93"
+}
+{
+1669 "-429 -1059 298"
+1677 "8.71 39.91 0"
+1668 "mp_global_intermission"
+}
+{
+1669 "-94 -535 1500"
+1673 "airstrikeheight"
+1668 "script_origin"
+}
+{
+11848 "airdrop_pallet"
+1673 "pf1_auto1"
+1668 "script_brushmodel"
+1669 "-8256 9088 2"
+1670 "*36"
+}
+{
+1668 "script_brushmodel"
+1669 "-435 147 20"
+1670 "*36"
+}
+{
+1668 "script_brushmodel"
+1669 "-333 140 28"
+1670 "*36"
+}
+{
+2814 "-8256 9088.19 16.8886"
+1672 "pf1_auto1"
+1673 "airdrop_crate"
+1669 "-8256 9088 2"
+1668 "script_model"
+1670 "com_plasticcase_green_big_us_dirt"
+}
+{
+11848 "airdrop_pallet"
+1673 "pf2_auto1"
+1668 "script_brushmodel"
+1669 "-8384 9088 15"
+1670 "*36"
+}
+{
+2814 "-8384 9088.19 14.8886"
+1672 "pf2_auto1"
+1673 "care_package"
+1669 "-8384 9088 0"
+1668 "script_model"
+1670 "com_plasticcase_green_big_us_dirt"
+}
+{
+11848 "airdrop_pallet"
+1673 "pf14_auto1"
+1668 "script_brushmodel"
+1669 "-8512 9088 2"
+1670 "*36"
+}
+{
+2814 "-8512 9088.19 16.8886"
+1672 "pf14_auto1"
+1673 "airdrop_crate"
+1669 "-8512 9088 2"
+1668 "script_model"
+1670 "com_plasticcase_green_big_us_dirt"
+}
+{
+1677 "0 180 180"
+1669 "178 -1198 112"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+}
+{
+1669 "130 -1198 112"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+}
+{
+1677 "0 180 180"
+1669 "82 -1198 112"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+}
+{
+1669 "34 -1198 112"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+}
+{
+1677 "110 195 160"
+1669 "-117 128 19"
+1670 "ctl_large_rocks_13"
+1668 "script_model"
+}
+{
+1677 "-1 0 0"
+1669 "4 102 -25"
+1670 "foliage_intro_tree_green_pine_lg_a"
+1668 "script_model"
+}
+{
+1677 "32 0 0"
+1669 "-80 76 50"
+1670 "foliage_pacific_forest_shrub01"
+1668 "script_model"
+}
+{
+1677 "-30 180 0"
+1669 "-78 74 50"
+1670 "foliage_pacific_forest_shrub01"
+1668 "script_model"
+}
+{
+1677 "90 180 0"
+1669 "64 -769 200"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+}
+{
+1677 "90 0 0"
+1669 "-64 -769 200"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+}
+{
+1677 "90 0 0"
+1669 "64 -511.5 200"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+}
+{
+1677 "90 180 0"
+1669 "-64 -511.5 200"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+}
+{
+11996 "_a"
+4630 "1"
+1672 "pf7_auto1"
+11848 "bombzone"
+1673 "bombzone"
+1668 "trigger_use_touch"
+1669 "0 -639 190"
+1783 "50"
+1782 "50"
+1670 "?18"
+}
+{
+1673 "pf7_auto2"
+1668 "trigger_use_touch"
+11848 "bombzone"
+1669 "0 -639 190"
+1670 "?18"
+}
+{
+11848 "bombzone"
+2009 "pf7_1"
+1673 "exploder"
+1671 "4"
+1669 "0 -639 190"
+1677 "0 76 0"
+1670 "com_bomb_objective_d"
+1668 "script_model"
+}
+{
+1671 "1"
+11848 "bombzone"
+1668 "script_brushmodel"
+1677 "0 76 0"
+1669 "-10 -637 250"
+1670 "*187"
+}
+{
+1671 "1"
+11848 "bombzone"
+1668 "script_brushmodel"
+1677 "0 76 0"
+1669 "10 -642 250"
+1670 "*187"
+}
+{
+1671 "1"
+11848 "bombzone"
+1668 "script_brushmodel"
+1677 "0 76 0"
+1669 "-10 -637 270"
+1670 "*187"
+}
+{
+1671 "1"
+11848 "bombzone"
+1668 "script_brushmodel"
+1677 "0 76 0"
+1669 "10 -642 270"
+1670 "*187"
+}}
+{
+1668 "script_model"
+1670 "com_bomb_objective"
+1677 "0 76 0"
+1669 "0 -639 190"
+2009 "pf7_1"
+11848 "bombzone"
+1671 "4"
+1673 "pf7_auto1"
+1672 "pf7_auto2"
+}
+{
+11996 "_b"
+4630 "1"
+1672 "pf11_auto1"
+11848 "bombzone"
+1673 "bombzone"
+1668 "trigger_use_touch"
+1669 "-43 -630 -20"
+1670 "?18"
+}
+{
+1673 "pf11_auto2"
+1668 "trigger_use_touch"
+11848 "bombzone"
+1669 "-43 -630 -20"
+1670 "?18"
+}
+{
+1672 "pf11_auto2"
+1673 "pf11_auto1"
+1671 "4"
+11848 "bombzone"
+2009 "pf11_2"
+1669 "-43 -630 -2"
+1677 "0 90 0"
+1670 "com_bomb_objective"
+1668 "script_model"
+}
+{
+11848 "bombzone"
+2009 "pf11_2"
+1673 "exploder"
+1671 "4"
+1669 "-43 -630 -2"
+1677 "0 90 0"
+1670 "com_bomb_objective_d"
+1668 "script_model"
+}
+{
+1671 "1"
+11848 "bombzone"
+1668 "script_brushmodel"
+1677 "0 90 0"
+1669 "-39 -630 28"
+1670 "*187"
+}
+{
+1671 "1"
+11848 "bombzone"
+1668 "script_brushmodel"
+1677 "0 90 0"
+1669 "-49 -630 28"
+1670 "*187"
+}
+{
+1671 "1"
+11848 "bombzone"
+1668 "script_brushmodel"
+1677 "0 90 0"
+1669 "-39 -630 78"
+1670 "*187"
+}
+{
+1671 "1"
+11848 "bombzone"
+1668 "script_brushmodel"
+1677 "0 90 0"
+1669 "-49 -630 78"
+1670 "*187"
+}
+{
+1671 "4"
+11848 "sd"
+1669 "-77 366 0"
+1673 "sd_bomb"
+1670 "mil_tntbomb_mp"
+1668 "script_model"
+}
+{
+11848 "sd"
+1673 "sd_bomb_pickup_trig"
+1668 "trigger_multiple"
+1669 "-77 366 0"
+1670 "?4"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 -40 0"
+1669 "-293 -1285 80"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 264 0"
+1669 "-278 -1262 88"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 -11 0"
+1669 "-455 -1377 111"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 25 0"
+1669 "-491 -1526 132"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 101 0"
+1669 "-8 -1630 81"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 88 0"
+1669 "-110 -1668 79"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 62 0"
+1669 "-205 -1637 85"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 62 0"
+1669 "222 -1571 100"
+}
+{
+1668 "mp_sd_spawn_defender"
+1677 "0 62 0"
+1669 "113 -1598 83"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 -73 0"
+1669 "-241 504 16"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 -128 0"
+1669 "-166 612 19"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 -102 0"
+1669 "0 590 16"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 -26 0"
+1669 "64 214 31"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 60 0"
+1669 "-48 228 16"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 117 0"
+1669 "-147 238 16"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 62 0"
+1669 "-288 209 16"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 -135 0"
+1669 "320 484 16"
+}
+{
+1668 "mp_sd_spawn_attacker"
+1677 "0 5 0"
+1669 "-115 394 16"
+}
+{
+11996 "_a"
+1670 "prop_flag_neutral"
+11848 "dom onslaught"
+1673 "flag_primary"
+1783 "128"
+1782 "80"
+1668 "trigger_radius"
+1669 "148 -1307 63"
+1677 "0 90 0"
+}
+{
+11996 "_b"
+1670 "prop_flag_neutral"
+11848 "dom onslaught"
+1669 "0 -638 191"
+1673 "flag_primary"
+1783 "128"
+1782 "140"
+1668 "trigger_radius"
+1677 "0 90 0"
+}
+{
+11996 "_c"
+1670 "prop_flag_neutral"
+11848 "dom onslaught"
+1669 "-208 280 -1"
+1673 "flag_primary"
+1783 "128"
+1782 "80"
+1668 "trigger_radius"
+1677 "0 90 0"
+}
+{
+1782 "176"
+1677 "0 0 0"
+1673 "flag_descriptor"
+1669 "148 -1307 -47"
+2328 "2"
+1679 "1"
+1668 "script_origin"
+}
+{
+1782 "176"
+1677 "0 180 0"
+1673 "flag_descriptor"
+1669 "0 -638 301"
+2328 "1 3"
+1679 "2"
+1668 "script_origin"
+}
+{
+1782 "176"
+1677 "0 180 0"
+1673 "flag_descriptor"
+1669 "-208 280 -111"
+2328 "2"
+1679 "3"
+1668 "script_origin"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 -40 0"
+1669 "-293 -1285 80"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 264 0"
+1669 "-278 -1262 88"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 -11 0"
+1669 "-455 -1377 111"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 25 0"
+1669 "-491 -1526 132"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 101 0"
+1669 "-8 -1630 81"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 88 0"
+1669 "-110 -1668 79"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 62 0"
+1669 "-205 -1637 85"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 62 0"
+1669 "222 -1571 100"
+}
+{
+1668 "mp_dom_spawn_allies_start"
+1677 "0 62 0"
+1669 "113 -1598 83"
+}
+{//allies
+1668 "mp_dom_spawn"
+1677 "0 264 0"
+1669 "-278 -1262 88"
+}
+{//allies
+1668 "mp_dom_spawn"
+1677 "0 -11 0"
+1669 "-455 -1377 111"
+}
+{//allies
+1668 "mp_dom_spawn"
+1677 "0 25 0"
+1669 "-491 -1526 132"
+}
+{//allies
+1668 "mp_dom_spawn"
+1677 "0 101 0"
+1669 "-8 -1630 81"
+}
+{//allies
+1668 "mp_dom_spawn"
+1677 "0 88 0"
+1669 "-110 -1668 79"
+}
+{//allies
+1668 "mp_dom_spawn"
+1677 "0 62 0"
+1669 "-205 -1637 85"
+}
+{//allies
+1668 "mp_dom_spawn"
+1677 "0 62 0"
+1669 "253 -1574 105"
+}
+{//allies
+1668 "mp_dom_spawn"
+1677 "0 30 0"
+1669 "113 -1598 83"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 -73 0"
+1669 "-241 504 16"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 -128 0"
+1669 "-166 612 19"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 -102 0"
+1669 "0 590 16"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 -26 0"
+1669 "64 214 31"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 60 0"
+1669 "-48 228 16"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 180 0"
+1669 "-70 338 16"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 62 0"
+1669 "-288 209 16"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 -135 0"
+1669 "320 484 16"
+}
+{
+1668 "mp_dom_spawn_axis_start"
+1677 "0 5 0"
+1669 "-115 394 16"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 -73 0"
+1669 "-241 504 16"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 196 0"
+1669 "-166 612 19"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 -102 0"
+1669 "0 590 16"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 -26 0"
+1669 "64 214 31"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 60 0"
+1669 "-48 228 16"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 117 0"
+1669 "-147 238 16"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 62 0"
+1669 "-288 209 16"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 -135 0"
+1669 "320 484 16"
+}
+{//axis
+1668 "mp_dom_spawn"
+1677 "0 5 0"
+1669 "-115 394 16"
+}
+{//neutral
+1668 "mp_dom_spawn"
+1677 "0 0 0"
+1669 "576 -936 264"
+}
+{//neutral
+1668 "mp_dom_spawn"
+1677 "0 -65 0"
+1669 "545 -473 268"
+}
+{//neutral
+1668 "mp_dom_spawn"
+1677 "0 -125 0"
+1669 "-674.6 -573.5 204"
+}
+{//neutral
+1668 "mp_dom_spawn"
+1677 "0 -97 0"
+1669 "-759.6 153 204"
+}
+{//neutral
+1668 "mp_dom_spawn"
+1677 "0 -40 0"
+1669 "-786.5 533 16"
+}
+{//neutral
+1668 "mp_dom_spawn"
+1677 "0 -40 0"
+1669 "520.8 -1351.8 93"
+}
+{
+1668 "mp_dm_spawn"
+1677 "0 -111 0"
+1669 "91 586 16"
+}
+{
+1668 "mp_dm_spawn"
+1677 "0 -65 0"
+1669 "-740 558 16"
+}
+{
+1668 "mp_dm_spawn"
+1677 "0 180 0"
+1669 "-661 -33 208"
+}
+{
+1668 "mp_dm_spawn"
+1677 "0 0 0"
+1669 "-221 -327 22"
+}
+{
+1668 "mp_dm_spawn"
+1677 "0 20 0"
+1669 "-617 -729 210"
+}
+{
+1668 "mp_dm_spawn"
+1677 "0 -90 0"
+1669 "566 -471 272"
+}
+{
+1668 "mp_dm_spawn"
+1677 "0 -17 0"
+1669 "-728 -1215 120"
+}
+{
+1668 "mp_dm_spawn"
+1677 "0 -106 0"
+1669 "225 -1224 86"
+}
+{
+1677 "1 19 0"
+1669 "-510 -1361 135"
+1670 "afr_corrugated_metal4x8"
+1668 "script_model"
+11848 "dm"
+}
